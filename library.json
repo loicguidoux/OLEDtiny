@@ -1,6 +1,6 @@
 {
     "name": "OLEDtiny",
-    "description": "OLEDATtiny library",
+    "description": "OLED for ATtiny library",
 	"repository": {
         "type": "git",
          "url": "https://github.com/loicguidoux/OLEDtiny.git"
@@ -23,6 +23,5 @@
         "attiny", 
         ], 
     "id": 1671, 
-    "description": "An Arduino library for reading the DHT family of temperature and humidity sensors. Written by Mark Ruys, mark@paracas.nl."
-
+   
 }
