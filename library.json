@@ -1,0 +1,19 @@
+{
+    {
+    "name": "loicBreton",
+    "description": "OLEDATtiny library",
+    "keywords": "OLED, attiny",
+    "authors": [
+        {
+            "name": "Loic Guidoux",
+    "email": "guidoux@wiz-com.com",
+      },
+        
+    ],
+    "repository": {
+        "type": "git",
+         "url": "https://github.com/loicguidoux/loicBreton.git"
+    },
+    "version": "1.0",
+    "frameworks": "Arduino",
+}
