@@ -1,6 +1,6 @@
 {
     {
-    "name": "loicBreton",
+    "name": "OLEDtiny",
     "description": "OLEDATtiny library",
     "keywords": "OLED, attiny",
     "authors": [
@@ -12,7 +12,7 @@
     ],
     "repository": {
         "type": "git",
-         "url": "https://github.com/loicguidoux/loicBreton.git"
+         "url": "https://github.com/loicguidoux/OLEDtiny.git"
     },
     "version": "1.0",
     "frameworks": "Arduino",
