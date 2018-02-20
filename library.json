@@ -1,26 +1,30 @@
 {
-    "name": "OLEDtiny",
-	 "version": "1.0",
-    "description": "I2C OLED for ATtiny library",
-	"keywords":"OLED, attiny, i2C", 
-       	
-	"repository": 
-	{
-        "type": "git",
-         "url": "https://github.com/loicguidoux/OLEDtiny.git"
-    },
-  
-    "authors":
-	[
-      {
-			"name": "Loic Guidoux",
-			"email": "guidoux@wiz-com.com",
-      }
-	],
-    "frameworks": "arduino",
-	"platforms": [
+    "name": "OLEDattiny", 
+    "repository": {
+        "url": "https://github.com/loicguidoux/OLEDtiny.git", 
+        "type": "git"
+    }, 
+    "frameworks": [
+        "arduino"
+    ], 
+    "platforms": [
         "atmelavr", 
         "espressif8266"
     ], 
-   
+    "version": "1.0.0", 
+    "authors": [
+        {
+            "maintainer": false, 
+            "name": "loicGuidoux", 
+            "url": "https://github.com/loicguidoux", 
+            "email": null
+        }
+    ], 
+    "keywords": [
+        "oled", 
+        "attiny", 
+        "attiny84", 
+        "i2C"
+    ], 
+    "description": "OLED library for attiny "
 }
