@@ -1,19 +1,28 @@
 {
-    {
     "name": "OLEDtiny",
     "description": "OLEDATtiny library",
-    "keywords": "OLED, attiny",
-    "authors": [
-        {
-            "name": "Loic Guidoux",
-    "email": "guidoux@wiz-com.com",
-      },
-        
-    ],
-    "repository": {
+	"repository": {
         "type": "git",
          "url": "https://github.com/loicguidoux/OLEDtiny.git"
     },
+    "keywords": "OLED, attiny",
+    "authors":[
+        {
+            "name": "Loic Guidoux",
+    "email": "guidoux@wiz-com.com",
+      }
+	  ],
     "version": "1.0",
     "frameworks": "Arduino",
+	"platforms": [
+        "atmelavr", 
+        "espressif8266"
+    ], 
+	"keywords": [
+        "OLED", 
+        "attiny", 
+        ], 
+    "id": 1671, 
+    "description": "An Arduino library for reading the DHT family of temperature and humidity sensors. Written by Mark Ruys, mark@paracas.nl."
+
 }
